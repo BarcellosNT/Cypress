@@ -1,0 +1,1 @@
+cy.type ("Olá Mundo")
